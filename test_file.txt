@@ -1,1 +1,2 @@
-Fuck you!!!!
+Well done!
+You've managed to connect to our remote repo!!
